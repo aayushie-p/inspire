@@ -103,8 +103,8 @@ body {
   position: relative;
   height: 50rem; }
   .event-card__side {
-    /* background-color: orangered;
-    color: white; */
+    background-color: orangered;
+    /* color: white; */
     font-size: 2rem;
     height: 47rem;
     transition: all 1s ease;
